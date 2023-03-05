@@ -1,0 +1,4 @@
+--lr=2e-4
+--num_epoch=800
+--acc_batch=25
+--seed=3435341064

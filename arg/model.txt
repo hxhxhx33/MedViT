@@ -1,0 +1,17 @@
+--num_dim 3
+--input_channel 4
+--output_channel 3
+--window_size 24
+
+--patch_sizes 3 6 12
+--encode_channel 432
+--decode_channel 432
+--encode_block 2
+--mxcode_block 2
+--decode_block 2
+--encode_attention_head 8
+--mxcode_attention_head 8
+--decode_attention_head 8
+--decode_hidden_channel 16
+--decode_projector_upsample_channel 16
+--decode_projector_hidden_channel 16
